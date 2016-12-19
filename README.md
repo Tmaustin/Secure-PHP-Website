@@ -17,7 +17,7 @@ Server
   #Delete all files in HTML folder for git purposes;
   echo "Delete all files in HTML folder for git purposes";
   rm -rf /var/www/html/*;
-  
+
 Transfer the contents of the Secure PHP Website folder to /var/www/html/
 
 Server Part 2
